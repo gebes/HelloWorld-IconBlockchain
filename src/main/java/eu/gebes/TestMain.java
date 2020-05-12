@@ -23,7 +23,7 @@ public class TestMain {
     root@07dfee84208e:/tbears#
      */
 
-    public static Address scoreAddress = new Address("cxe2b7a34c49ad21d06a203e9abd9357f400b0483e");
+    public static Address scoreAddress = new Address("cx7227e0adfc4bd41ea16bf2521089798cf10f67ca");
 
     public static void main(String[] args) throws IOException, InvalidAlgorithmParameterException, NoSuchAlgorithmException, NoSuchProviderException, KeystoreException, InterruptedException {
 

@@ -1,9 +1,9 @@
 from iconservice import *
 
-TAG = 'FitnessScore'
+TAG = 'HelloWorldScore'
 
 
-class FitnessScore(IconScoreBase):
+class HelloWorldScore(IconScoreBase):
 
     def __init__(self, db: IconScoreDatabase) -> None:
         super().__init__(db)
